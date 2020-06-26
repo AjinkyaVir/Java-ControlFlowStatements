@@ -1,4 +1,4 @@
-package com.company.switchstaement;
+package com.company.switchstaement.exampleone;
 
 public class Demo {
     public static void main(String[] args) {
