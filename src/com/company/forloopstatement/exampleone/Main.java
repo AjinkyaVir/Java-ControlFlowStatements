@@ -1,4 +1,4 @@
-package com.company.forloopstatement;
+package com.company.forloopstatement.exampleone;
 
 public class Main {
     public static void main(String[] args) {
